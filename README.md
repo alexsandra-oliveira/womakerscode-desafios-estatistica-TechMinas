@@ -1,7 +1,7 @@
 # WoMakers-desafios-estatistica
-@Autora: Alexsandra Oliveira
+Autora: Alexsandra Oliveira
 
-##Desafios de Estatística do Bootcamp Tech Minas 2023.
+Desafios de Estatística do Bootcamp Tech Minas 2023.
 
 1. Challenge Frequências e Medidas BootcampTECHMINAs2023-230206-120333.pdf
 2. Challenge Probabilidade e Amostragem BootcampTECHMINAs2023-230206-120350.pdf
